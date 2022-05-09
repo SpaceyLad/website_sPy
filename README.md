@@ -11,11 +11,11 @@ But please, use it on CTFs or your own local websites! Have fun.. Legally! :]
 This only works on websites that uses utf-8 encoding.
 To get everything from a website. run the following:
 
-website_sPy.py -u https://www.example.com/ -a //Not an actual website!
+website_sPy.py -u https://www.veryvulnerable.org/ -a //Not an actual website!
 
 You can use arguments to get specific data. For example
 -pj (-p gives you png and -j gives you jpeg)
-website_sPy.py -jp https://www.example.com/ -a
+website_sPy.py -jp https://www.veryvulnerable.org/ -a
 
 # Release notes
 
