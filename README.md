@@ -3,6 +3,9 @@ A script that gets you the information you want.
 This script gives you the following:
 scripts,links,sources,png and jpegs! And there will be more to come!
 
+This script is written for research purposes. Do not use this against websites without permission.
+But please, use it on CTFs or your own local websites! Have fun.. Legally! :]
+
 # How to use
 
 This only works on websites that uses utf-8 encoding.
